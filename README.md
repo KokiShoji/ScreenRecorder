@@ -1,2 +1,6 @@
 # ScreenRecorder
-Unity Recorderでffmpegで録画するスクリプト
+Unity Recorderでffmpegで録画するスクリプトです。
+
+Windows上でUnityEditorでPlay時に自動録画するために使います。
+ノイズの少ない画質を少ない容量で記録したいため
+H.265 HEVC NVIDIAコーデックを使うことを想定しています。
