@@ -1,0 +1,2 @@
+# ScreenRecorder
+Unity Recorderでffmpegで録画するスクリプト
